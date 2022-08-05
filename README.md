@@ -1,6 +1,15 @@
-# cannocdata
+# National Occupational Classification
 
-cannocdata is a python command line tool
+cannocdata is a python command line tool around the Canadian National Occupational Classification
+
+## Location
+
+* data/National Occupational Classification
+
+## Links
+
+* [Homepage](https://www.statcan.gc.ca/fr/sujets/norme/cnp/2021/indexV1)
+* [Documentation](https://www.statcan.gc.ca/eng/subjects/standard/noc/2021/introductionV1)
 
 ## Documentation
 
@@ -18,3 +27,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
+
+
+
